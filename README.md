@@ -34,7 +34,7 @@ cd MEDWING-FRONTEND
 
 4.2 Back-end part
 
-You should go to API directory 
+You should go to MEDWING-BACKEND directory 
 ```sh
 cd MEDWING-BACKEND
 - npm Install
